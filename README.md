@@ -25,7 +25,7 @@ Infrastructure professional with extensive experience in IT Support, Systems Adm
 ---
 
 ### 📂 Featured Repositories
-* **[Automations-Windows](./Automations-Windows):** Production-ready scripts for automated system maintenance, cleanup, and Task Scheduler XML templates.
+* **[Automations-Windows](https://github.com/AironB/bash/tree/main/Automations%20Windows):** Production-ready scripts for automated system maintenance, cleanup, and Task Scheduler XML templates.
 * **[Cybersecurity-Labs](./cyber-labs):** Network traffic analysis, protocol captures, and virtual lab documentation.
 
 ---
